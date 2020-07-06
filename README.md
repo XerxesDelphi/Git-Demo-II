@@ -5,3 +5,7 @@ Create a local repository then upload to GITHUB
 ## Create Local Files
 
 Create the README.md and index.html file
+
+## Local Development
+
+1. Open index.html in your browser.
